@@ -1,5 +1,5 @@
 # React-based Instagram clone
-### Backend built with Express, mostly
+### Frontend built with ReactJs
 
 For this to work you need both repos, frontend and backend.
 Clone both and run using yarn.
